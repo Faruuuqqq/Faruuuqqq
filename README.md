@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm a passionate **backend enthusiast** and a **fi
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](your-linkedin-url) 
-- [GitHub Portfolio](https://github.com/Faruuuqqq)  
-
----
-
 ## 🌟 Featured Projects
 - [Book Management API](https://github.com/Faruuuqqq/book-management-api) - A simple REST API for managing books built with Node.js and Express.  
 - [To-Do App](https://github.com/Faruuuqqq/todo-app) - A basic to-do list app using JavaScript and local storage.  
