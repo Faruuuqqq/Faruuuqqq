@@ -22,14 +22,9 @@ Welcome to my GitHub profile! I'm a passionate **backend enthusiast** and a **fi
 ---
 
 ## 🌟 Featured Projects
-- [Book Management API](https://github.com/Faruuuqqq/book-management-api) - A simple REST API for managing books built with Node.js and Express.  
-- [E=Commerce API](https://github.com/Faruuuqqq/E-Commerce-node-mysql-react) - E-Commerce API using node js, mysql and react.  
+- [E=Commerce API](https://github.com/Faruuuqqq/E-Commerce-node-mysql-react) - E-Commerce API using node js, mysql and EJS.
+- [Book Management API](https://github.com/Faruuuqqq/book-management-api) - A simple REST API for managing books built with Node.js and Express.   
 - [Social Media API](https://github.com/Faruuuqqq/social-media-api) - A simple social media look a like, API using Node JS
-- [Passport Authentication API](https://github.com/Faruuuqqq/passport-uthentication-api-using-mysql-) - A simple passport authentication using mysql
-- []()
 
----
-
-Feel free to explore my repositories and reach out if you want to collaborate on something exciting! 😊  
 
 ---
