@@ -13,18 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **backend enthusiast** and a **fi
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, C++, Python (basic), HTML, CSS  
-- **Frameworks/Libraries:** Node.js, Express.js  
-- **Tools:** Git, VS Code, Postman  
-- **Other:** REST APIs, JSON  
-
----
-
 ## 🌟 Featured Projects
 - [E=Commerce API](https://github.com/Faruuuqqq/E-Commerce-node-mysql-react) - E-Commerce API using node js, mysql and EJS.
-- [Book Management API](https://github.com/Faruuuqqq/book-management-api) - A simple REST API for managing books built with Node.js and Express.   
-- [Social Media API](https://github.com/Faruuuqqq/social-media-api) - A simple social media look a like, API using Node JS
-
 
 ---
