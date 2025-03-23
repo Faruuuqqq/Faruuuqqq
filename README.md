@@ -5,11 +5,10 @@ Welcome to my GitHub profile! I'm a passionate **backend enthusiast** and a **fi
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Node.js, REST APIs**, and **JavaScript** through hands-on projects and online courses.  
+- 🌱 I’m currently learning **Node.js, REST APIs**,**EJS** and **JavaScript** through hands-on projects and online courses.  
 - 👯 I’m looking to collaborate on **open-source projects** or **simple backend applications**.  
 - 💬 Ask me about **basic web development, backend concepts, or programming for beginners**.  
 - 📫 How to reach me: faruqmahdison@gmail.com  
-- ⚡ Fun fact: I love exploring new tech but still enjoy watching movies!
 
 ---
 
