@@ -50,6 +50,6 @@
 ###
 
 ## 🌟 Featured Projects
-- [E=Commerce API](https://github.com/Faruuuqqq/E-Commerce-node-mysql-react) - E-Commerce API using node js, mysql and EJS.
 - [Fullstack Realtime Chat App](https://github.com/Faruuuqqq/realtime-chat-app) - MERN Project and implementation websocket concept.
 - [MERN Cinema Booking App ](https://github.com/Faruuuqqq/MERN-Cinema-Booking-App) - Fullstack project end-to-end process
+- [Stay Awake Coffe](https://github.com/Faruuuqqq/stay_awake_coffe) - Platform E-commerce using Node JS, MySQL and EJS
