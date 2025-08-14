@@ -1,16 +1,16 @@
-<h2 align="left">Hi there, I'm Faruuuqqq! 👋</h2>
+<h1 align="left">Hi there, I'm Faruq! 👋</h1>
+<h3 align="left">Second-Year CS Student | Backend Developer in the Making</h3>
 
-###
+<p align="left">Welcome to my corner of GitHub! I'm a passionate Computer Science student with a strong enthusiasm for backend development. I'm focused on turning ideas into functional, server-side applications and continuously expanding my knowledge in the tech world. Here you'll find my journey as I build, learn, and contribute.</p>
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate backend enthusiast and a first-year Computer Science student eager to learn and grow in the tech world. Here, you'll find my journey through projects, experiments, and contributions.</p>
-
-###
+---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Node.js, REST APIs**,**EJS** and **JavaScript** through hands-on projects and online courses.  
-- 👯 I’m looking to collaborate on **open-source projects** or **simple backend applications**.  
-- 💬 Ask me about **basic web development, backend concepts, or programming for beginners**.  
-- 📫 How to reach me: faruqmahdison@gmail.com  
+* 🌱 Building scalable applications with **Node.js** and **Express.js**.
+* 🛠️ Crafting RESTful APIs and understanding the flow of data.
+* 💡 Exploring the **MERN stack** (MongoDB, Express, React, Node.js) through hands-on projects.
+* 👯 Open to collaborating on **open-source projects** or innovative backend applications.
+* 💬 Ask me about my projects, backend concepts, or my learning journey!
 
 ###
 
