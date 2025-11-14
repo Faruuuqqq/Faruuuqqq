@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-* 🌱 Building scalable applications with **Node.js** and **Express.js**.
+* 🌱 Building scalable applications with **Nest.js**, **Node.js** and **Express.js**.
 * 🛠️ Crafting RESTful APIs and understanding the flow of data.
 * 💡 Exploring the **MERN stack** (MongoDB, Express, React, Node.js) through hands-on projects.
 * 👯 Open to collaborating on **open-source projects** or innovative backend applications.
